@@ -3,48 +3,48 @@
   margin: 0;
   box-sizing: border-box;
   outline: none;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 body{
   background: #f8f8f8;
-  color: #343434;
+  color: #343434
 }
 h1{
   margin: 1.5rem 0;
   text-align: center;
-  color: #324262;
+  color: #324262
 }
 #list{
   width: 85%;
-  margin: 1rem auto;
+  margin: 1rem auto
 }
 #list li{
   border: 2px solid #d8d8d8;
   margin-bottom: 0.5rem;
-  padding: 0.75rem;
+  padding: 0.75rem
 }
 table span.name{
   color: #6ba060;
-  font-weight: 600;
+  font-weight: 600
 }
 table{
   border: 2px solid #d8d8d8;
   border-collapse: collapse;
   margin: auto;
   margin-bottom: 1.5rem;
-  width: 75%;
+  width: 75%
 }
 table th{
   border: 2px solid #d8d8d8;
-  padding: 0.75rem;
+  padding: 0.75rem
 }
 table td{
   border: 2px solid #d8d8d8;
-  padding: 0.75rem 1rem;
+  padding: 0.75rem 1rem
 }
 table input{
   padding: 0.5rem;
-  border-radius: 6px;
+  border-radius: 6px
 }
 #addProductForm{
   border: 2px solid #324262;
@@ -54,17 +54,17 @@ table input{
   padding: 0.75rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-between
 }
 #addProductForm h4{
-  color: #324262;
+  color: #324262
 }
 #addProductForm input{
   border: 2px solid #324262;
   padding: 0.5rem;
   border-radius: 6px;
   flex: 1;
-  margin: 0 0.5rem;
+  margin: 0 0.5rem
 }
 #addProductForm button{
   border: 2px solid #324262;
@@ -72,5 +72,5 @@ table input{
   border-radius: 6px;
   cursor: pointer;
   font-weight: 700;
-  color: #6ba060;
+  color: #6ba060
 }
